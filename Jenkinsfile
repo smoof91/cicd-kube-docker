@@ -8,6 +8,7 @@ pipeline {
 */
     environment {
     	registry = "smoof91/vprofileapp"
+	registryCredential = "dockerhub"
 
     }
 
